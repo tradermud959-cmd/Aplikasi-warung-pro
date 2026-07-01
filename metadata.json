@@ -1,0 +1,6 @@
+{
+  "name": "Warungku",
+  "description": "Aplikasi pencatatan warung offline yang membantu mengelola stok, transaksi, hutang, pelanggan, dan keuntungan secara mudah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
